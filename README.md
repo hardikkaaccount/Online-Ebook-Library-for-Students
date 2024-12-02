@@ -116,7 +116,7 @@ We would love to hear from you! Feel free to reach out to us for collaborations,
       </a>
     </td>
     <td>
-      <a href="https://github.com/hardikkaaccount" target="_blank">
+      <a href="https://github.com/Lavany004" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/D5603AQFbBCSGPofpIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721111176386?e=1738800000&v=beta&t=bJAoJ2h6FLsZdmpxibb9j3P04WgLfsGdvb7kf646IgI" alt="Lavanya K" style="width: 100px; height: 100px; border-radius: 50%;">
       </a>
     </td>
